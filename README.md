@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:29/08/2025
-## Name:R.KRIPAL
+## Name : SANDEEP
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
